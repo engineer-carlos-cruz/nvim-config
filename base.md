@@ -278,3 +278,15 @@ Mi recomendación para decidir: si quieres *trabajo hecho hoy*, empieza con Lazy
 ## Resumen en una frase
 
 Neovim es un editor modal, ligero, configurado con **Lua**, extensible con **plugins (lazy.nvim)**, que entiende la sintaxis del código con **Treesitter** y habla con los lenguajes vía **LSP** — y que, con una pequeña inversión de aprendizaje, puede reemplazar el día a día que hace un editor como VSCode.
+
+---
+
+## Siguientes lecturas de este repositorio
+
+- [**cheatsheet.md**](cheatsheet.md) — la chuleta de comandos para el día a día.
+- [**plugins.md**](plugins.md) — cómo funciona lazy.nvim y qué hace cada plugin del setup.
+- [**lsp.md**](lsp.md) — LSP, servidores de lenguaje y Mason, con ejemplos.
+- [**crear-plugin.md**](crear-plugin.md) — escribe tu primer plugin en Lua.
+- [**troubleshooting.md**](troubleshooting.md) — problemas frecuentes.
+- [**update.md**](update.md) — actualizar el binario, la config y los plugins.
+- [**README.md**](README.md) — índice general del repositorio.

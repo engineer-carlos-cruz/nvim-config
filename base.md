@@ -205,7 +205,7 @@ El ecosistema cubre hoy casi todo lo de un IDE moderno:
 - **Explorador de archivos**: nvim-tree vía netrw.
 - **Integración con Git**: fugitive.vim, octo.nvim (GitHub).
 - **Almacén de notas / maduración de ideas**: markdown + Telescope + neorg.
-- **Temas, iconos, snippets, testing, dépuration, múltiples cursores...**
+- **Temas, iconos, snippets, testing, depuración, múltiples cursores...**
 
 Es tan flexible que a menudo "configurar Neovim" se convierte en un hobby: gente incluso publica sus *dotfiles* (configuraciones completas) como la gente comparte temas.
 

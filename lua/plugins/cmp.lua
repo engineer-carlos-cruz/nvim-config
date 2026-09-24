@@ -72,3 +72,7 @@ return {
 
         -- Vista previa "fantasma": texto gris que avanza mientras escribes.
         experimental = { ghost_text = true },
+      })
+    end,
+  },
+}
